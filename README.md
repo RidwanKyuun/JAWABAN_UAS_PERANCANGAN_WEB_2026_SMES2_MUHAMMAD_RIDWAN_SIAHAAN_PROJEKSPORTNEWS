@@ -1,5 +1,6 @@
 # JAWABAN_UAS_PERANCANGAN_WEB_2026_SMES2_MUHAMMAD_RIDWAN_SIAHAAN_PROJEKSPORTNEWS
 Projek yang memberikan berita seputar olahraga
+
 ​SportNews — Fake API Demo
 ​Proyek SportNews adalah sebuah aplikasi web single-page statis berbasis HTML, Tailwind CSS, dan JavaScript vanilla. Proyek ini mendemonstrasikan bagaimana data yang berasal dari sebuah API (dalam hal ini disimulasikan menggunakan objek JSON statis) dapat dirender, difilter (pencarian), dan disajikan dalam tata letak kartu yang modern dan responsif.
 ​🚀 Fitur Utama
